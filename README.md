@@ -15,8 +15,8 @@ Run `run_expr_doublePendulum.m` after running `createPendulumData.m` for a simpl
 
 ## Reference 
 Keisuke Fujii, Naoya Takeishi, Benio Kibushi, Motoki Kouzaki, Yoshinobu Kawahara, 
-"Data-driven spectral analysis for coordinative structures in periodic systems with unknown and redundant dynamics", 
-bioRxiv 511642; doi: [https://doi.org/10.1101/511642](https://doi.org/10.1101/511642)
+"[Data-driven spectral analysis for coordinative structures in periodic human locomotion](https://www.nature.com/articles/s41598-019-53187-1)", 
+Scientific Reports 9 16755
 
 
 ## License
